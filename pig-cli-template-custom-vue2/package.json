@@ -1,0 +1,18 @@
+{
+  "name": "pig-cli-template-custom-vue2",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "fs-extra": "^11.1.0",
+    "glob": "^8.0.3",
+    "inquirer": "^8.2.5"
+  }
+}
